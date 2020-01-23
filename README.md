@@ -38,5 +38,5 @@
 - [.NET Framework Support Policy](https://dotnet.microsoft.com/platform/support/policy/dotnet-framework)
 - [ASP.NET Support Policy](https://dotnet.microsoft.com/platform/support/policy/aspnet)
 
-## .Net Developer Roadmap
+## .Net Developer Roadmap ([*edit on draw.io*](https://www.draw.io/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fphongnguyend%2FPractical.NET%2Fmaster%2F.net-developer-roadmap.xml))
 ![Roadmap](.net-developer-roadmap.png)
