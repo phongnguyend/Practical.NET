@@ -2,8 +2,11 @@
   + [StyleCop | Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop)
   + [StyleCop.MSBuild](https://www.nuget.org/packages/StyleCop.MSBuild/)
   + [StyleCop.CSharp.Rules](https://www.nuget.org/packages/StyleCop.CSharp.Rules/)
-- [StyleCopAnalyzers | DotNetAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
-  + [StyleCop.Analyzers | Nuget](https://www.nuget.org/packages/StyleCop.Analyzers/)
+- [DotNetAnalyzers](https://github.com/DotNetAnalyzers)
+  + [StyleCopAnalyzers | GitHub](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
+    + [StyleCop.Analyzers | Nuget](https://www.nuget.org/packages/StyleCop.Analyzers/)
+  + [IDisposableAnalyzers | GitHub](https://github.com/DotNetAnalyzers/IDisposableAnalyzers)
+    + [IDisposableAnalyzers | Nuget](https://www.nuget.org/packages/IDisposableAnalyzers/)
 - [Code Quality and Security | SonarQube](https://www.sonarqube.org/)
   + [GitHub](https://github.com/SonarSource/sonarqube)
   + [SonarLint | Visual Studio Extension](https://www.sonarlint.org/visualstudio/)
@@ -14,4 +17,3 @@
 - Community:
   + [Code Cracker | Code Cracker](https://github.com/code-cracker/code-cracker)
   + [Roslynator | JosefPihrt](https://github.com/JosefPihrt/Roslynator)
-  + [IDisposableAnalyzers | DotNetAnalyzers](https://github.com/DotNetAnalyzers/IDisposableAnalyzers)
