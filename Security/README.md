@@ -37,6 +37,13 @@
 - [DotnetHttpSecurityCheck](https://github.com/CodeTherapist/DotnetHttpSecurityCheck)
 - [CertExpirationCheck](https://github.com/ardalis/CertExpirationCheck)
 
+## Cross-Origin Resource Sharing (CORS)
+- [Cross-Origin Resource Sharing (CORS) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [enable-cors.org](https://enable-cors.org/index.html)
+- [Getting started with the IIS CORS Module](https://blogs.iis.net/iisteam/getting-started-with-the-iis-cors-module)
+- [CORS Module Configuration Reference | Microsoft Docs](https://docs.microsoft.com/en-us/iis/extensions/cors-module/cors-module-configuration-reference#cors-configuration)
+- [CORS - Chrome not showing OPTIONS requests in Network tab - Stack Overflow](https://stackoverflow.com/questions/57410051/chrome-not-showing-options-requests-in-network-tab)
+
 ## Others:
 - [Encrypt/Decrypt Web/App.config](https://msdn.microsoft.com/en-us/library/k6h9cz8h.aspx)
 - [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer)
