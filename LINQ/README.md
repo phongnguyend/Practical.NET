@@ -20,4 +20,40 @@
   
  ## LINQ Fundamentals
  - Query syntax vs Method syntax
- 
+ - Filtering
+   + Where()
+   + Skip()
+   + Take()
+   + First()
+   + FirstOrDefault()
+   + Last()
+   + LastOrDefault()
+   + Single()
+   + SingleOrDefault()
+ - Sorting (Ordering)
+   + OrderBy()
+   + OrderByDescending()
+   + ThenBy()
+   + ThenByDescending()
+ - Projecting (Selecting, Transforming)
+   + Select()
+ - Quantifying
+   + Any()
+   + All()
+   + Contains()
+- Flattening
+  + SelectMany()
+- Joining
+  + Join()
+  + Joining condition on single field
+  + Joining condition on multiple fields (Composite Key)
+  + GroupJoin()
+- Grouping
+  + Group()
+- Aggregating()
+  + Count()
+  + Min()
+  + Max()
+  + Average()
+  + Sum()
+  + Aggregate()
