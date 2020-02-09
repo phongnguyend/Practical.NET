@@ -1,14 +1,44 @@
 
 - I/O Operations
-- async/ await
+  + Disk
+  + Memory
+  + Web/API
+  + Database
+- async/await
+  + The await keyword:
+    + Introduces a continuation, allowing us to get back to the original context (thread)
+    + Gives us a potential result
+    + Validates the success or failure of the operation
+    + Continuation is back on calling thread
+  + Should not use async void, it is only appropriate for event handlers (use async Task instead)
+  + Exceptions occurring in an async void method cannot be caught
+  + Using async and await in Asp.Net means the web server can handle other requests
+  + Best Practices:
+    + Never use async void unless it's an event handler or delegate
+    + Never block an asynchronous operation by calling Result or Wait()
+    + Always use async and await together
+    + Always return a Task from an asynchronous method
+    + Always await an asynchronous method to validate the operation
+    + Use async and await all the way up the chain
 - Task
+  + Task is a reference to an asynchronous operation
+  + Work passed to Task.Run() is scheduled to execute on a different thread
+  + Tasks swallow exceptions
+  + Continuations are executed on a different thread
+  + Wrapping synchronous code in Task.Run() can be dangerous. Make sure there is no blocking code.
 - Task Continuation
-  + ContinueWith
-  + ConfigureAwait
+  + Obtaining the Result of a Task
+  + Handling Success or Failure
+  + Validate Tasks even when not using async and await by chaining on a continuation
+  + ContinueWith()
+    + ContinueWith() vs await
+  + ConfigureAwait()
+    + ConfigureAwait(false) should be used when you don't care about the original context
     + Not applicable for .Net Core
     + Shoule use ConfigureAwait(false) when writing libraries
 - Task Cancellation
 - Task Completion
-  + When All
-  + When Any
-- Task.Delay vs Thread.Sleep
+  + How to get Result or Exception from a Task
+  + Task.WhenAll()
+  + Task.WhenAny()
+- Task.Delay() vs Thread.Sleep()
