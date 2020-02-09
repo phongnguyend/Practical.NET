@@ -1,4 +1,4 @@
-
+## Asynchronous Programming
 - I/O Operations
   + Disk
   + Memory
@@ -20,7 +20,7 @@
     + Always return a Task from an asynchronous method
     + Always await an asynchronous method to validate the operation
     + Use async and await all the way up the chain
-- Task
+- [Task](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task)
   + Task is a reference to an asynchronous operation
   + Work passed to Task.Run() is scheduled to execute on a different thread
   + Tasks swallow exceptions
@@ -42,3 +42,22 @@
   + Task.WhenAll()
   + Task.WhenAny()
 - Task.Delay() vs Thread.Sleep()
+
+## Parallel Programming
+- Parallel programming lets us break down a large problem and compute each piece independently
+- When to use Parallel Programming
+  + CPU bound operations
+  + Independent checks of data
+- Parallel Programming in .NET
+  + Thread
+  + Task Parallel Library
+  + Parallel Extensions
+  + Parallel LINQ
+- Notice: Misusing parallel principles in Asp.Net can cause bad performance for all users
+- Processing a collection of data in parallel
+  + [Parallel Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.parallel)
+  + Parallel.Invoke()
+  + Parallel.For()
+  + Parallel.ForEach()
+- Working with Shared Variables and Collections
+  + Lock
