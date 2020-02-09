@@ -15,7 +15,7 @@
   + Using async and await in Asp.Net means the web server can handle other requests
   + Best Practices:
     + Never use async void unless it's an event handler or delegate
-    + Never block an asynchronous operation by calling Result or Wait()
+    + Never block an asynchronous operation by calling Result or Wait() *([Don't Block on Async Code](https://blog.stephencleary.com/2012/07/dont-block-on-async-code.html))*
     + Always use async and await together
     + Always return a Task from an asynchronous method
     + Always await an asynchronous method to validate the operation
@@ -33,12 +33,13 @@
   + ContinueWith()
     + ContinueWith() vs await
   + ConfigureAwait()
-    + ConfigureAwait(false) should be used when you don't care about the original context
-    + Not applicable for .Net Core
+    + ConfigureAwait(false) should be used when we don't care about the original context
     + Shoule use ConfigureAwait(false) when writing libraries
+    + Not applicable for .Net Core
+    + [ConfigureAwait FAQ | .NET Blog](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 - Task Cancellation
 - Task Completion
-  + How to get Result or Exception from a Task
+  + Getting Result or Exception from a Task
   + Task.WhenAll()
   + Task.WhenAny()
 - Task.Delay() vs Thread.Sleep()
