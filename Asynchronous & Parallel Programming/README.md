@@ -35,7 +35,6 @@
   + ConfigureAwait()
     + ConfigureAwait(false) should be used when we don't care about the original context
     + Shoule use ConfigureAwait(false) when writing libraries
-    + Not applicable for .Net Core
     + [ConfigureAwait FAQ | .NET Blog](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 - Task Cancellation
 - Task Completion
