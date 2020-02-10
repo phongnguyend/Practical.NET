@@ -57,3 +57,18 @@
   + Average()
   + Sum()
   + Aggregate()
+
+ ## LINQ to XML
+ - System.Xml.Linq
+ - XDocument
+ - XElement
+ - XAttribute
+ - XNamespace
+ 
+ ## LINQ to Entity Framework
+ - IQueryable vs IEnumerable
+ - Expression<Func<>> vs Func<>
+ - Be careful which type you are writting the query on
+   + Beside IEnumerable Deferred Execution Pitfalls, you might get more data than you need (you might load entire data related to the query into memory before applying filtering) -> watch out for the database statement generated
+   + Not every expression can be translated to database statement, exception will be thrown at runtime, in some cases expression will be evaluated in memory after loading data into memory first -> again, always watch out for the generated statement
+ 
