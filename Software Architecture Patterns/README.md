@@ -1,0 +1,17 @@
+# Microservices
+### Articles:
+- https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch04.html
+- https://martinfowler.com/articles/microservices.html
+- https://blog.softwaremill.com/what-are-microservices-and-what-are-their-benefits-d2aa64c52426
+- https://blog.softwaremill.com/what-are-the-essential-skills-for-microservices-developers-a3db7d0149f4
+- https://medium.com/@kikchee/microservices-vs-soa-is-there-any-difference-at-all-2a1e3b66e1be
+- https://dzone.com/articles/microservices-vs-soa-whats-the-difference
+- https://dzone.com/articles/microservices-vs-soa-2
+- https://www.opengroup.org/soa/source-book/msawp/p2.htm
+- https://www.opengroup.org/soa/source-book/msawp/p3.htm
+- https://thenewstack.io/this-week-in-programming-forget-microservices-monoliths-are-the-way-forward/
+### Samples:
+- https://github.com/dotnet-architecture/eShopOnContainers
+- https://github.com/asc-lab/dotnetcore-microservices-poc
+- https://github.com/vietnam-devs/coolstore-microservices
+- https://github.com/GoogleCloudPlatform/microservices-demo
