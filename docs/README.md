@@ -2,7 +2,7 @@
 | Version  | Support Policy | Support Ended Date |
 | -------- | -------------- | ------------------ |
 | [.NET Core 3.1](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-1) | LTS | December 3, 2022 |
-| [.NET Core 3.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0) | Maintenance | March 3, 2020 |
+| [.NET Core 3.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0) | EOL | March 3, 2020 |
 | [.NET Core 2.2](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-2) | EOL | December 23, 2019 |
 | [.NET Core 2.1](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-1) | LTS | August 21, 2021 |
 | [.NET Core 2.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-0) | EOL | October 1, 2018 |
