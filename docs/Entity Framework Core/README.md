@@ -1,7 +1,8 @@
 ## [EF Core | Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/)
 
 ## What's new in EF Core
-- [EF Core 3.1](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-3-1-and-entity-framework-6-4/)
+- [EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew)
+- [EF Core 3.1](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-3.x/)
 - [EF Core 3.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-3.0)
 - [EF Core 2.2](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-2.2)
 - [EF Core 2.1](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-2.1)
