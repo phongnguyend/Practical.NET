@@ -1,6 +1,7 @@
 ## What's new in .NET Core
 | Version  | Support Policy | Support Ended Date |
 | -------- | -------------- | ------------------ |
+| [.NET 5.0](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five) | --- | --- |
 | [.NET Core 3.1](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-1) | LTS | December 3, 2022 |
 | [.NET Core 3.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0) | EOL | March 3, 2020 |
 | [.NET Core 2.2](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-2) | EOL | December 23, 2019 |
