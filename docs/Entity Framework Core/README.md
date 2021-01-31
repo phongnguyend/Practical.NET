@@ -35,7 +35,7 @@
 - [Shadow Properties](https://docs.microsoft.com/en-us/ef/core/modeling/shadow-properties)
 - [Owned Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities)
 - User-defined Functions
-- Views ([Query Types](https://docs.microsoft.com/en-us/ef/core/modeling/query-types))
+- Views ([Query Types, Keyless Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/query-types))
 - [Data Seeding (HasData)](https://docs.microsoft.com/en-us/ef/core/modeling/data-seeding)
 - [Value Converters](https://docs.microsoft.com/en-us/ef/core/modeling/value-conversions)
 
@@ -50,11 +50,13 @@
   + Eager loading
   + Explicit loading
   + Lazy loading with and without Proxies
+- [Global Query Filters](https://docs.microsoft.com/en-us/ef/core/querying/filters)
 
 ## Saving Data:
 - [Transactions](https://docs.microsoft.com/en-us/ef/core/saving/transactions)
 - [MinBatchSize](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.infrastructure.relationaloptionsextension.minbatchsize?view=efcore-2.1)
 - [MaxBatchSize](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.infrastructure.relationaloptionsextension.maxbatchsize?view=efcore-2.1)
+- [Attach](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext.attach?view=efcore-5.0) vs [Update](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext.update?view=efcore-5.0)
 
 ## Logging & Tracking Events:
 - [Logging](https://docs.microsoft.com/en-us/ef/core/miscellaneous/logging)
