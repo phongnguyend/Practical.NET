@@ -1,0 +1,3 @@
+- [Reflection (C#) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
+- [Reflection in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/reflection)
+- [Extending Metadata Using Attributes | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/attributes/)
