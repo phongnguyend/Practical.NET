@@ -1,0 +1,2 @@
+- [Exceptions and Exception Handling (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/)
+- [Design Guidelines for Exceptions](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/exceptions)
