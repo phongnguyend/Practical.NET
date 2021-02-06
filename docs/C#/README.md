@@ -6,3 +6,5 @@
 - [What's new in C# 7.1](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-1)
 - [What's new in C# 7](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7)
 - [What's New in C# 6](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6)
+
+## [C# Programming Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
