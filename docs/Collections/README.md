@@ -1,3 +1,5 @@
+## [Collections (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
+
 ## Basic Concepts
 - Collections let us treat multiple objects as a single object
 - Collections group items together
