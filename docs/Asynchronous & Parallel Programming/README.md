@@ -1,4 +1,7 @@
-## [Asynchronous Programming with async and await](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
+## Docs:
+- [Asynchronous programming in C# | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
+- [Asynchronous Programming | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/async)
+- [Parallel Programming in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/)
 
 ## Asynchronous Programming
 - I/O Operations
