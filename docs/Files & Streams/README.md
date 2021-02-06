@@ -1,4 +1,6 @@
-### [File system and the registry (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/file-system/)
+### Docs:
+- [File system and the registry (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/file-system/)
+- [File and Stream I/O - .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/io/)
 
 ### [System.IO](https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-5.0):
 - [File](https://docs.microsoft.com/en-us/dotnet/api/system.io.file?view=net-5.0)
