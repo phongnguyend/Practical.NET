@@ -1,3 +1,4 @@
+- [Built-in reference types - C# reference | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-dynamic-type)
 - [Using type dynamic - C# Programming Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/using-type-dynamic)
 - [ExpandoObject Class (System.Dynamic) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.dynamic.expandoobject?view=net-5.0)
 - [DynamicObject Class (System.Dynamic) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.dynamic.dynamicobject?view=net-5.0)
