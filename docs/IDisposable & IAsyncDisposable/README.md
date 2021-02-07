@@ -5,12 +5,15 @@
 
 ## Samples:
 ```c#
+    // Implement IDisposable if you use IDisposable objects as instance fields
+    // Implement IDisposable if you use unmanaged resources as instance fields
     public class DisposableClass : IDisposable
     {
-        ~DisposableClass()
-        {
-            Dispose(false);
-        }
+        // Only if you use unmanaged resources
+        //~DisposableClass()
+        //{
+        //    Dispose(false);
+        //}
 
         public void Dispose()
         {
@@ -31,10 +34,11 @@
 
     public class InheritedDisposableClass : DisposableClass
     {
-        ~InheritedDisposableClass()
-        {
-            Dispose(false);
-        }
+        // Only if you use unmanaged resources
+        //~InheritedDisposableClass()
+        //{
+        //    Dispose(false);
+        //}
 
         protected override void Dispose(bool disposing)
         {
