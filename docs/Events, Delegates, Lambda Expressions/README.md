@@ -1,0 +1,5 @@
+- [Events (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events/)
+- [Delegates (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)
+  + [Action Delegate](https://docs.microsoft.com/en-us/dotnet/api/system.action)
+  + [Func&lt;TResult&gt; Delegate](https://docs.microsoft.com/en-us/dotnet/api/system.func-1)
+- [Lambda expressions (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
