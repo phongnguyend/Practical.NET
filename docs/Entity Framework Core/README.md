@@ -1,6 +1,7 @@
 ## [EF Core | Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/)
 
 ## What's new in EF Core
+- [EF Core 6.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/whatsnew)
 - [EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew)
 - [EF Core 3.1](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-3.x/)
 - [EF Core 3.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-3.0)
@@ -20,6 +21,7 @@
 - Microsoft.EntityFrameworkCore
 - Microsoft.EntityFrameworkCore.Relational
 - Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.InMemory
 - ...
 
 ## Migrations:
@@ -65,6 +67,13 @@
 
 ## Code Analysis:
 - Microsoft.EntityFrameworkCore.Analyzers
+
+## Testing
+- [Testing code that uses EF Core](https://docs.microsoft.com/en-us/ef/core/testing/)
+- [EF Core testing sample](https://docs.microsoft.com/en-us/ef/core/testing/testing-sample)
+- [Sharing databases between tests](https://docs.microsoft.com/en-us/ef/core/testing/sharing-databases)
+- [Using SQLite to test an EF Core application](https://docs.microsoft.com/en-us/ef/core/testing/sqlite)
+- [Testing with the EF In-Memory Database](https://docs.microsoft.com/en-us/ef/core/testing/in-memory)
 
 ## Notes:
 - GroupBy Issues
