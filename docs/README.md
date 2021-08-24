@@ -8,6 +8,13 @@
 | [.NET Core 2.1](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-1) | LTS | August 21, 2021 |
 | [.NET Core 2.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-0) | EOL | October 1, 2018 |
 
+## Performance Improvements in .NET
+- [Performance Improvements in .NET Core](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core/)
+- [Performance Improvements in .NET Core 2.1](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-2-1/)
+- [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/)
+- [Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
+- [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
+
 ## What's new in the .NET Framework
 | Version  | Support Policy | Support Ended Date |
 | -------- | -------------- | ------------------ |
