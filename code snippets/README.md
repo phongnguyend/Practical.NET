@@ -18,8 +18,11 @@ class Program
 
     private static string GetTotalMegaBytesOfMemoryUsed()
     {
-        var currentProcess = System.Diagnostics.Process.GetCurrentProcess();
-        long totalBytesOfMemoryUsed = currentProcess.WorkingSet64 / 1024 / 1024;
+        //var currentProcess = System.Diagnostics.Process.GetCurrentProcess();
+        //long totalBytesOfMemoryUsed = currentProcess.WorkingSet64 / 1024 / 1024;
+        //return totalBytesOfMemoryUsed.ToString("N0");
+
+        long totalBytesOfMemoryUsed = Environment.WorkingSet / 1024 / 1024;
         return totalBytesOfMemoryUsed.ToString("N0");
     }
 }
