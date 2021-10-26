@@ -27,3 +27,7 @@ class Program
     }
 }
 ```
+### C#: Open file without locking
+```c#
+var stream = File.Open(filePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite);
+```
