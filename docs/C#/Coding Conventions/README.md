@@ -1,0 +1,3 @@
+- [C# Coding Conventions | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- [C# at Google Style Guide](https://google.github.io/styleguide/csharp-style.html)
+- [C# Coding Standards Best Practices - Dofactory](https://www.dofactory.com/csharp-coding-standards)
