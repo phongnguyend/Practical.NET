@@ -1,0 +1,5 @@
+- [Globalize and localize .NET applications | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/extensions/globalization-and-localization)
+- [System.Globalization Namespace | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.globalization?view=net-5.0)
+  + [CultureInfo.CurrentCulture Property (System.Globalization) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.cultureinfo.currentculture?view=net-5.0)
+  + [Thread.CurrentCulture Property (System.Threading) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread.currentculture?view=net-5.0)
+- [Globalization and localization in ASP.NET Core | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-5.0)
