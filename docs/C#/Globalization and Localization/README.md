@@ -3,3 +3,6 @@
   + [CultureInfo.CurrentCulture Property (System.Globalization) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.cultureinfo.currentculture?view=net-5.0)
   + [Thread.CurrentCulture Property (System.Threading) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread.currentculture?view=net-5.0)
 - [Globalization and localization in ASP.NET Core | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-5.0)
+- [StringComparer Class (System) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.stringcomparer?view=net-5.0#properties)
+- [StringComparison Enum (System) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.stringcomparison?view=net-5.0)
+- [IFormatProvider Interface (System) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.iformatprovider?view=net-5.0)
