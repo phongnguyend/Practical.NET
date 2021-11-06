@@ -1,7 +1,8 @@
 ## Docs:
-- [Asynchronous programming in C# | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
-- [Asynchronous Programming | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/async)
+- [Managed Threading in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/threading/)
+- [Asynchronous Programming in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/async)
 - [Parallel Programming in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/)
+- [Asynchronous programming in C# | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
 
 ## Asynchronous Programming
 - I/O Operations
