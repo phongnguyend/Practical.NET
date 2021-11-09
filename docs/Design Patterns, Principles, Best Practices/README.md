@@ -4,6 +4,8 @@
 ### Object-Oriented Design Patterns
 - [.NET Design Patterns in C# - Gang of Four (GOF) - Dofactory](https://www.dofactory.com/net/design-patterns)
 - [Introduction to Object-Oriented Design Patterns](https://hackernoon.com/introduction-to-object-oriented-design-patterns-397t3yz7)
+- [Refactoring and Design Patterns](https://refactoring.guru/)
+- [Code Smells](https://sourcemaking.com/refactoring/smells)
 
 ### Microservices Design Patterns
 - [Design patterns for microservices - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns)
