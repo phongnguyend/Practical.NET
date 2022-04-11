@@ -11,6 +11,7 @@
 - [Microservices Architecture – SOA and MSA](https://www.opengroup.org/soa/source-book/msawp/p3.htm)
 - [This Week in Programming: Forget Microservices, Monoliths Are the Way Forward](https://thenewstack.io/this-week-in-programming-forget-microservices-monoliths-are-the-way-forward/)
 - [7 Ways to Fail at Microservices | InfoQ](https://www.infoq.com/articles/microservices-seven-fail/)
+- [Guaranteed Ways of Failing With Microservices | DZone](https://dzone.com/articles/guaranteed-ways-of-failing-with-microservices)
 ### Samples:
 - https://github.com/dotnet-architecture/eShopOnContainers
 - https://github.com/asc-lab/dotnetcore-microservices-poc
