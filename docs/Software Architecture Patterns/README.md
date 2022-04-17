@@ -1,5 +1,6 @@
 # Microservices
 ### Articles:
+- [Microservices Architecture – Explained in Plain English](https://www.freecodecamp.org/news/microservices-architecture-for-humans/)
 - [Microservices Architecture Pattern](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch04.html)
 - [Microservices](https://martinfowler.com/articles/microservices.html)
 - [What are Microservices and what are their benefits?](https://blog.softwaremill.com/what-are-microservices-and-what-are-their-benefits-d2aa64c52426)
@@ -12,6 +13,12 @@
 - [This Week in Programming: Forget Microservices, Monoliths Are the Way Forward](https://thenewstack.io/this-week-in-programming-forget-microservices-monoliths-are-the-way-forward/)
 - [7 Ways to Fail at Microservices | InfoQ](https://www.infoq.com/articles/microservices-seven-fail/)
 - [Guaranteed Ways of Failing With Microservices | DZone](https://dzone.com/articles/guaranteed-ways-of-failing-with-microservices)
+### Testing Microservices:
+- [Microservices Testing Strategies, Types & Tools: A Complete Guide](https://www.simform.com/blog/microservice-testing-strategies/)
+- [Microservice Testing Strategies - DZone Microservices](https://dzone.com/articles/microservice-testing-strategies)
+- [Testing microservices – strategies, practices and tools | TSH.io](https://tsh.io/blog/testing-microservices-strategy-and-tools/)
+- [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
+- [Testing Microservices: Principles, Challenges, Case Studies - MobiDev](https://mobidev.biz/blog/testing-microservices-principles-challenges-case-studies)
 ### Samples:
 - https://github.com/dotnet-architecture/eShopOnContainers
 - https://github.com/asc-lab/dotnetcore-microservices-poc
