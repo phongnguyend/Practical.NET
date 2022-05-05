@@ -55,6 +55,7 @@
 - [ValueTask](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.valuetask-1)
   + [Understanding the Whys, Whats, and Whens of ValueTask - .NET Blog](https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/)
   + [asynchronous - Why would one use Task<T> over ValueTask<T> in C#? - Stack Overflow](https://stackoverflow.com/questions/43000520/why-would-one-use-taskt-over-valuetaskt-in-c)
+  + [Async ValueTask Pooling in .NET 5 - .NET Blog](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
 
 ## Parallel Programming
 - Parallel programming lets us break down a large problem and compute each piece independently
