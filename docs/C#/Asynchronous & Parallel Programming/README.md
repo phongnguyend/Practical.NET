@@ -3,6 +3,7 @@
 - [Asynchronous Programming in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/async)
 - [Parallel Programming in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/)
 - [Asynchronous programming in C# | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
+- [Async/Await - Best Practices in Asynchronous Programming | Microsoft Docs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
 
 ## Asynchronous Programming
 - I/O Operations
@@ -38,16 +39,22 @@
   + Validate Tasks even when not using async and await by chaining on a continuation
   + ContinueWith()
     + ContinueWith() vs await
+    + [c# - Difference between await and ContinueWith - Stack Overflow](https://stackoverflow.com/questions/18965200/difference-between-await-and-continuewith)
+    + [Difference Between Await and ContinueWith Keyword in C#](https://www.c-sharpcorner.com/UploadFile/pranayamr/difference-between-await-and-continuewith-keyword-in-C-Sharp/)
   + ConfigureAwait()
     + ConfigureAwait(false) should be used when we don't care about the original context
     + Shoule use ConfigureAwait(false) when writing libraries
     + [ConfigureAwait FAQ | .NET Blog](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+    + [ASP.NET Core SynchronizationContext](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 - Task Cancellation
 - Task Completion
   + Getting Result or Exception from a Task
   + Task.WhenAll()
   + Task.WhenAny()
 - Task.Delay() vs Thread.Sleep()
+- [ValueTask](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.valuetask-1)
+  + [Understanding the Whys, Whats, and Whens of ValueTask - .NET Blog](https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/)
+  + [asynchronous - Why would one use Task<T> over ValueTask<T> in C#? - Stack Overflow](https://stackoverflow.com/questions/43000520/why-would-one-use-taskt-over-valuetaskt-in-c)
 
 ## Parallel Programming
 - Parallel programming lets us break down a large problem and compute each piece independently
