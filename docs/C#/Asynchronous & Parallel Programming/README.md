@@ -1,3 +1,11 @@
+### Concurrency vs. Parallelism
+- [Concurrency vs. Parallelism](https://jenkov.com/tutorials/java-concurrency/concurrency-vs-parallelism.html)
+- [language agnostic - What is the difference between concurrency and parallelism? - Stack Overflow](https://stackoverflow.com/questions/1050222/what-is-the-difference-between-concurrency-and-parallelism)
+
+### Asynchronous vs. Parallel Programming
+- [Asynchronous and Parallel Programming](https://www.c-sharpcorner.com/uploadfile/bc1c71/asynchronous-and-parallel-programming/)
+- [Asynchronous Versus Parallel Programming - Writings of Urda](https://urda.com/blog/2010/10/04/asynchronous-versus-parallel-programming)
+
 ## Docs:
 - [Managed Threading in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/threading/)
 - [Asynchronous Programming in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/async)
