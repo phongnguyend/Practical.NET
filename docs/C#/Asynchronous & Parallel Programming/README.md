@@ -4,11 +4,11 @@
 
 ### Asynchronous vs. Parallel Programming
 - [Asynchronous and Parallel Programming](https://www.c-sharpcorner.com/uploadfile/bc1c71/asynchronous-and-parallel-programming/)
-- [Asynchronous Versus Parallel Programming - Writings of Urda](https://urda.com/blog/2010/10/04/asynchronous-versus-parallel-programming)
+- [c# - What is the difference between asynchronous programming and multithreading? - Stack Overflow](https://stackoverflow.com/questions/34680985/what-is-the-difference-between-asynchronous-programming-and-multithreading)
+- [There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 
 ## Docs:
 - [Managed Threading in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/threading/)
-- [Asynchronous Programming in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/async)
 - [Parallel Programming in .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/)
 - [Asynchronous programming in C# | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
 - [Async/Await - Best Practices in Asynchronous Programming | Microsoft Docs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
@@ -35,6 +35,9 @@
     + Always return a Task from an asynchronous method
     + Always await an asynchronous method to validate the operation
     + Use async and await all the way up the chain
+  + More:
+    + [Async and Await](https://blog.stephencleary.com/2012/02/async-and-await.html)
+    + [Async/Await FAQ - .NET Parallel Programming](https://devblogs.microsoft.com/pfxteam/asyncawait-faq/)
 - [Task](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task)
   + Task is a reference to an asynchronous operation
   + Work passed to Task.Run() is scheduled to execute on a different thread
