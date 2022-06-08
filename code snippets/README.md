@@ -31,3 +31,26 @@ class Program
 ```c#
 var stream = File.Open(filePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite);
 ```
+
+### C#: Generate Sql Statement To Delete Duplicated Records
+```c#
+private static string GenerateSqlStatementToDeleteDuplicatedRecords(string tableName, string[] duplicatedColumns, string[] orderByColumns, string id)
+{
+    string autoColumn = Guid.NewGuid().ToString();
+
+    StringBuilder sqlBuilder = new StringBuilder();
+    sqlBuilder.AppendLine("DELETE T");
+    sqlBuilder.AppendLine("FROM");
+    sqlBuilder.AppendLine("(");
+    sqlBuilder.AppendLine($"SELECT [{id}], [{autoColumn}] = ROW_NUMBER() OVER (");
+    sqlBuilder.AppendLine($"              PARTITION BY {string.Join(", ", duplicatedColumns.Select(x => $"[{x}]"))}");
+    sqlBuilder.AppendLine($"              ORDER BY {string.Join(", ", orderByColumns.Select(x => $"[{x}]"))}");
+    sqlBuilder.AppendLine("            )");
+    sqlBuilder.AppendLine($"FROM [{tableName}]");
+    sqlBuilder.AppendLine(") AS T");
+    sqlBuilder.AppendLine($"WHERE [{autoColumn}] > 1");
+
+    var sql = sqlBuilder.ToString();
+    return sql;
+}
+```
