@@ -54,3 +54,32 @@ private static string GenerateSqlStatementToDeleteDuplicatedRecords(string table
     return sql;
 }
 ```
+
+### C#: Generate DateTime Formats
+```c#
+private static string[] GenerateDateTimeFormats()
+{
+    var dateFormats = new[] { "yyyy/MM/dd", "yyyy-MM-dd" };
+    var timeFormats = new[] { "HH:mm:ss" };
+    var offSetFormats = new[] { "z", "zz", "zzz" };
+
+    var formats = new List<string> { };
+
+    foreach (var dateFormat in dateFormats)
+    {
+        formats.Add(dateFormat);
+
+        foreach (var timeFormat in timeFormats)
+        {
+            formats.Add(dateFormat + " " + timeFormat);
+
+            foreach (var offSetFormat in offSetFormats)
+            {
+                formats.Add(dateFormat + " " + timeFormat + " " + offSetFormat);
+            }
+        }
+    }
+
+    return formats.ToArray();
+}
+```
