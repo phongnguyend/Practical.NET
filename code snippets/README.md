@@ -61,7 +61,7 @@ private static string[] GenerateDateTimeFormats()
 {
     var dateFormats = new[] { "yyyy/MM/dd", "yyyy-MM-dd" };
     var timeFormats = new[] { "HH:mm:ss" };
-    var offSetFormats = new[] { "z", "zz", "zzz" };
+    var offsetFormats = new[] { "z", "zz", "zzz" };
 
     var formats = new List<string> { };
 
@@ -73,9 +73,9 @@ private static string[] GenerateDateTimeFormats()
         {
             formats.Add(dateFormat + " " + timeFormat);
 
-            foreach (var offSetFormat in offSetFormats)
+            foreach (var offsetFormat in offsetFormats)
             {
-                formats.Add(dateFormat + " " + timeFormat + " " + offSetFormat);
+                formats.Add(dateFormat + " " + timeFormat + " " + offsetFormat);
             }
         }
     }
