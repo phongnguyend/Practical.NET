@@ -62,6 +62,7 @@
   + Getting Result or Exception from a Task
   + Task.WhenAll()
   + Task.WhenAny()
+  + Task.WhenEach()
 - Task.Delay() vs Thread.Sleep()
 - [ValueTask](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.valuetask-1)
   + [Understanding the Whys, Whats, and Whens of ValueTask - .NET Blog](https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/)
