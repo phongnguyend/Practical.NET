@@ -12,13 +12,13 @@ namespace AsyncDemo2
             Coffee cup = PourCoffee();
             Console.WriteLine("3. coffee is ready");
 
-            Egg eggs = await FryEggs(2);
+            Egg eggs = await FryEggsAsync(2);
             Console.WriteLine("8. eggs are ready");
 
-            Bacon bacon = await FryBacon(3);
+            Bacon bacon = await FryBaconAsync(3);
             Console.WriteLine("14. bacon is ready");
 
-            Toast toast = await ToastBread(2);
+            Toast toast = await ToastBreadAsync(2);
             ApplyButter(toast);
             ApplyJam(toast);
             Console.WriteLine("20. toast is ready");
@@ -44,7 +44,7 @@ namespace AsyncDemo2
         private static void ApplyButter(Toast toast) =>
             Console.WriteLine("18. Putting butter on the toast");
 
-        private async static Task<Toast> ToastBread(int slices)
+        private async static Task<Toast> ToastBreadAsync(int slices)
         {
             for (int slice = 0; slice < slices; slice++)
             {
@@ -57,7 +57,7 @@ namespace AsyncDemo2
             return new Toast();
         }
 
-        private async static Task<Bacon> FryBacon(int slices)
+        private async static Task<Bacon> FryBaconAsync(int slices)
         {
             Console.WriteLine($"9. putting {slices} slices of bacon in the pan");
             Console.WriteLine("10. cooking first side of bacon...");
@@ -73,7 +73,7 @@ namespace AsyncDemo2
             return new Bacon();
         }
 
-        private async static Task<Egg> FryEggs(int howMany)
+        private async static Task<Egg> FryEggsAsync(int howMany)
         {
             Console.WriteLine("4. Warming the egg pan...");
             await FakeNonBlockingIOOperationAsync(3000);
