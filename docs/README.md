@@ -1,10 +1,11 @@
 ## What's new in .NET Core
 | Version  | Support Policy | Support Ended Date |
 | -------- | -------------- | ------------------ |
-| [.NET 8](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8) | LTS |  |
+| [.NET 9](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-9/overview) | STS |  |
+| [.NET 8](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8) | LTS | November 10, 2026 |
 | [.NET 7](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7) | STS | May 14, 2024 |
 | [.NET 6](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6) | LTS | November 08, 2024 |
-| [.NET 5](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five) | EOL | May 08, 2022 |
+| [.NET 5](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-5) | EOL | May 08, 2022 |
 | [.NET Core 3.1](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-1) | EOL | December 3, 2022 |
 | [.NET Core 3.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0) | EOL | March 3, 2020 |
 | [.NET Core 2.2](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-2) | EOL | December 23, 2019 |
@@ -18,6 +19,7 @@
 - [Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
 - [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
 - [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/)
+- [Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/)
 
 ## Deep Dive .NET
 - [Writing async/await from scratch in C# with Stephen Toub - YouTube](https://www.youtube.com/watch?v=R-z2Hv-7nxk)
