@@ -20,6 +20,7 @@
 - [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
 - [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/)
 - [Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/)
+- [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
 
 ## Deep Dive .NET
 - [Writing async/await from scratch in C# with Stephen Toub - YouTube](https://www.youtube.com/watch?v=R-z2Hv-7nxk)
@@ -28,6 +29,7 @@
 - [Deep Dive into RegEx with Stephen Toub - YouTube](https://www.youtube.com/watch?v=ptKjWPC7pqw)
 - [A Complete .NET Developer's Guide to Span with Stephen Toub - YouTube](https://www.youtube.com/watch?v=5KdICNWOfEQ)
 - [Let's Build Our Own ArrayPool - Deep .NET with Stephen & Scott - YouTube](https://www.youtube.com/watch?v=bw7ljmvbrr0)
+- [Deep .NET: Let's Talk Parallel Programming with Stephen Toub and Scott Hanselman - YouTube](https://www.youtube.com/watch?v=18w4QOWGJso)
 
 ## What's new in the .NET Framework
 | Version  | Support Policy | Support Ended Date |
