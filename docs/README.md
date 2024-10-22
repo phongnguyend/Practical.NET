@@ -3,7 +3,7 @@
 | -------- | -------------- | ------------------ |
 | [.NET 9](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-9/overview) | STS |  |
 | [.NET 8](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8) | LTS | November 10, 2026 |
-| [.NET 7](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7) | STS | May 14, 2024 |
+| [.NET 7](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7) | EOL | May 14, 2024 |
 | [.NET 6](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6) | LTS | November 08, 2024 |
 | [.NET 5](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-5) | EOL | May 08, 2022 |
 | [.NET Core 3.1](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-1) | EOL | December 3, 2022 |
@@ -30,6 +30,7 @@
 - [A Complete .NET Developer's Guide to Span with Stephen Toub - YouTube](https://www.youtube.com/watch?v=5KdICNWOfEQ)
 - [Let's Build Our Own ArrayPool - Deep .NET with Stephen & Scott - YouTube](https://www.youtube.com/watch?v=bw7ljmvbrr0)
 - [Deep .NET: Let's Talk Parallel Programming with Stephen Toub and Scott Hanselman - YouTube](https://www.youtube.com/watch?v=18w4QOWGJso)
+- [Deep .NET - Ahead of Time Compilation (Native AOT) with Eric Erhardt - YouTube](https://www.youtube.com/watch?v=N-MrQeZ1enY)
 
 ## What's new in the .NET Framework
 | Version  | Support Policy | Support Ended Date |
