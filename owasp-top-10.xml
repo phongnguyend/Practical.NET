@@ -1,0 +1,248 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="Page-1" id="NvgBwqiUVBCyh7184hKX">
+    <mxGraphModel dx="1434" dy="4263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-2319" width="150" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_alt2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="101.72000000000003" y="-1872" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-10" value="A1: Injection" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-2314" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-11" value="A2: Cross-Site Scripting (XSS)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-2289" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-12" value="A3: Broken Authentication and Session Management" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-2244" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-13" value="A4: Insecure Direct Object References" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-2199" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-14" value="A5: Cross-Site Request Forgery (CSRF)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-2154" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-15" value="A6: Security Misconfiguration" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-2109" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-16" value="A7: Insecure Cryptographic Storage" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-2064" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-17" value="A8: Failure to Restrict URL Access" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-2019" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-18" value="A9: Insufficient Transport Layer Protection" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-1974" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-19" value="A10: Unvalidated Redirects and Forwards" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-1929" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-2202" width="150" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-21" value="A1: Injection" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-2197" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-22" value="A2: Broken Authentication and Session Management" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-2172" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-23" value="A3: Cross-Site Scripting (XSS)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-2127" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-24" value="A4: Insecure Direct Object References" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-2082" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-25" value="A5: Security Misconfiguration" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-2037" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-26" value="A6: Sensitive Data Exposure" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-1992" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-27" value="A7: Missing Function Level Access Control" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-1947" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-28" value="A8: Cross-Site Request Forgery (CSRF)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-1902" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-29" value="A9: Using Components with Known Vulnerabilities" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-1857" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-30" value="A10: Unvalidated Redirects and Forwards" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-1812" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="-2083" width="150" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-32" value="A1: Injection" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-2078" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-33" value="A2: Broken Authentication" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-2053" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-34" value="A3: Sensitive Data Exposure" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-2008" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-35" value="A4: XML External Entities (XXE)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-1963" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-36" value="A5: Broken Access Control" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-1918" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-37" value="A6: Security Misconfiguration" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-1873" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-38" value="A7: Cross-Site Scripting (XSS)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-1828" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-39" value="A8: Insecure Deserialization" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-1783" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-40" value="A9: Using Components with Known Vulnerabilities" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-1738" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-41" value="A10: Insufficient Logging &amp;amp; Monitoring" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-1693" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-44" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_alt2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="791.72" y="-1752" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-1963" width="150" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-46" value="A1: Broken Access Control" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1958" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-47" value="A2: Cryptographic Failures" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1933" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-48" value="A3: Injection" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1888" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-49" value="A4: Insecure Design" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1843" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-50" value="A5: Security Misconfiguration" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1798" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-51" value="A6: Vulnerable and Outdated Components" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1753" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-52" value="A7: Identification and Authentication Failures" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1708" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-53" value="A8: Software and Data Integrity Failures" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1663" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-54" value="A9: Security Logging and Monitoring Failures" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1618" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-55" value="A10: Server-Side Request Forgery" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="694" y="-1573" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-56" value="OWASP Top 10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="255" y="-2400" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-58" value="2010" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#f8cecc;fontStyle=1;spacingLeft=15;spacingRight=2;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-2113" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-59" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;entryX=0.4;entryY=0;endFill=0;fontStyle=1;labelBorderColor=#000000;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OtVus4zmtMHmLuZHfZQz-56" target="OtVus4zmtMHmLuZHfZQz-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="-2290" as="sourcePoint" />
+            <mxPoint x="77.5" y="-1810.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="424" y="-2203" />
+              <mxPoint x="334" y="-2163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OtVus4zmtMHmLuZHfZQz-60" target="OtVus4zmtMHmLuZHfZQz-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-60" value="2013" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#f8cecc;fontStyle=1;spacingLeft=15;spacingRight=2;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1948" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-63" value="2017" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#f8cecc;fontStyle=1;spacingLeft=15;spacingRight=2;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1773.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-64" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;entryX=0.5;entryY=0;endFill=0;fontStyle=1;labelBorderColor=#000000;entryDx=0;entryDy=0;exitX=0.55;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OtVus4zmtMHmLuZHfZQz-60" target="OtVus4zmtMHmLuZHfZQz-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="-1920" as="sourcePoint" />
+            <mxPoint x="399" y="-1798" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="-1883" />
+              <mxPoint x="374" y="-1843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-65" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;endFill=0;fontStyle=1;labelBorderColor=#000000;" edge="1" parent="1" source="OtVus4zmtMHmLuZHfZQz-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-2100" as="sourcePoint" />
+            <mxPoint x="414" y="-1950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="-2051.5" />
+              <mxPoint x="374" y="-2011.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-66" value="2021" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#f8cecc;fontStyle=1;spacingLeft=15;spacingRight=2;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1598.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-67" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;entryX=0.5;entryY=0;endFill=0;fontStyle=1;labelBorderColor=#000000;entryDx=0;entryDy=0;" edge="1" parent="1" target="OtVus4zmtMHmLuZHfZQz-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="-1753" as="sourcePoint" />
+            <mxPoint x="399" y="-1623" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="-1708" />
+              <mxPoint x="374" y="-1668" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-68" value="2025" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#f8cecc;fontStyle=1;spacingLeft=15;spacingRight=2;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1426.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-69" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;entryX=0.5;entryY=0;endFill=0;fontStyle=1;labelBorderColor=#000000;entryDx=0;entryDy=0;exitX=0.59;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="OtVus4zmtMHmLuZHfZQz-68" source="OtVus4zmtMHmLuZHfZQz-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423" y="-1581" as="sourcePoint" />
+            <mxPoint x="399" y="-1451" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="-1536" />
+              <mxPoint x="374" y="-1496" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-70" value="Keep Learning" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;comic=0;fontFamily=Verdana;fontSize=14;labelBorderColor=none;glass=0;arcSize=50;perimeterSpacing=1;" vertex="1" parent="1">
+          <mxGeometry x="576.1200000000001" y="-1228.5" width="147" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-71" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;exitX=0.589;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OtVus4zmtMHmLuZHfZQz-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579.2100000000003" y="-1216.5000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="-1310" />
+              <mxPoint x="360" y="-1306.5" />
+              <mxPoint x="420" y="-1206.5" />
+            </Array>
+            <mxPoint x="420.12" y="-1406.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OtVus4zmtMHmLuZHfZQz-58" target="OtVus4zmtMHmLuZHfZQz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OtVus4zmtMHmLuZHfZQz-63" target="OtVus4zmtMHmLuZHfZQz-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OtVus4zmtMHmLuZHfZQz-66" target="OtVus4zmtMHmLuZHfZQz-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logotypes/32/github-128.png;rounded=1;glass=0;comic=0;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-2390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtVus4zmtMHmLuZHfZQz-77" value="phongnguyend/.net-developer-roadmap" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="-2387.5" width="260" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
